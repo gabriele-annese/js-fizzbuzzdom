@@ -22,4 +22,3 @@ for(let square = 1; square <= 100; square++){
     rowMarkup += '</div>'
     container.innerHTML += rowMarkup
 }
-// individuare multipli di 3 e 5 
