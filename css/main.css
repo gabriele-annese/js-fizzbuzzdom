@@ -20,7 +20,6 @@ h1{
 .row{
     display: flex;
     flex-wrap: wrap;
-    background-color: antiquewhite;
 }
 
 .square{
@@ -36,5 +35,13 @@ h1{
 }
 
 .ml3{
-    background-color: red;
+    background-color: #0bd6a1;
+}
+
+.ml5{
+    background-color: #ffd166;
+}
+
+.ml{
+    background-color: #f0466f;
 }
